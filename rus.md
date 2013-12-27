@@ -863,7 +863,7 @@ RequireJS для определения пути к нашей картинке)
 
 Хорошо, добавим этот код в наш `main.js` и [взглянем на финальный релиз][24]!
 
-<p data-height="450" data-theme-id="0" data-slug-hash="dDryl" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/dDryl'>Создание двухмерной браузерной игры на основе PhysicsJS (Законченный код)</a></p>
+<pre data-height="450" data-theme-id="0" data-slug-hash="dDryl" data-safe="true" data-type="js" data-user="SilentImp" data-default-tab="result" class='codepen'><code></code>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/dDryl'>Создание двухмерной браузерной игры на основе PhysicsJS (Законченный код)</a></pre>
 
 ## Подводя итог
 
