@@ -880,6 +880,8 @@ RequireJS для определения пути к нашей картинке)
 
 Спасибо [MillionthVector за спрайты][20].
 
+<pre class="codepen"data-height="450"data-type="js"data-href="7c1f72c5c9c8e2159ee97dc6540e0b72"data-user="wellcaffeinated"data-safe="true"><code></code><a href="http://codepen.io/wellcaffeinated/pen/7c1f72c5c9c8e2159ee97dc6540e0b72" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://codepen.io']);">Check out this Pen!</a></pre><script async src="http://codepen.io/assets/embed/ei.js"></script>
+
 [1]: http://wellcaffeinated.net/PhysicsJS/
 [2]: https://github.com/wellcaffeinated/PhysicsJS
 [3]: http://codepen.io/SilentImp/pen/dDryl
