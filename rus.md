@@ -124,7 +124,7 @@ GitHub][2] (ищите его в examples/spaceship), [конечный резу
         },
         …
 
-Окей, начнём с первой версии `main.js`.
+Окей, [начнём с первой версии][21] `main.js`.
 
 <p data-height="450" data-theme-id="0" data-slug-hash="aJAtq" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/aJAtq'>Создание двухмерной браузерной игры на основе PhysicsJS (v1)</a></p>
 
@@ -643,7 +643,7 @@ RequireJS для определения пути к нашей картинке)
         world.render();
     });
 
-Наша вторая итерация проекта теперь уже больше напоминает игру!
+Наша [вторая итерация][22] проекта теперь уже больше напоминает игру!
 
 <p data-height="450" data-theme-id="0" data-slug-hash="jogle" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/jogle'>Создание двухмерной браузерной игры на основе PhysicsJS (v2)</a></p>
 
@@ -804,7 +804,7 @@ RequireJS для определения пути к нашей картинке)
 необходимости. Также я хотел вам продемонстрировать, насколько гибкой является 
 библиотека PhysicsJS при использовании различных стилей написания кода. Одну и ту же задачу можно реализовать совершенно разными способами.
 
-Давайте взглянем на третью итерацию `main.js`:
+Давайте [взглянем на третью итерацию][23] `main.js`:
 
 <p data-height="450" data-theme-id="0" data-slug-hash="wHslk" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/wHslk'>Создание двухмерной браузерной игры на основе PhysicsJS (v3)</a></p>
 
@@ -861,7 +861,7 @@ RequireJS для определения пути к нашей картинке)
         scratch.done();
     });
 
-Хорошо, добавим этот код в наш `main.js` и взглянем на финальный релиз!
+Хорошо, добавим этот код в наш `main.js` и [взглянем на финальный релиз][24]!
 
 <p data-height="450" data-theme-id="0" data-slug-hash="dDryl" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/dDryl'>Создание двухмерной браузерной игры на основе PhysicsJS (Законченный код)</a></p>
 
@@ -879,8 +879,6 @@ RequireJS для определения пути к нашей картинке)
 [StackOverflow][19].
 
 Спасибо [MillionthVector за спрайты][20].
-
-<pre class="codepen"data-height="450"data-type="js"data-href="7c1f72c5c9c8e2159ee97dc6540e0b72"data-user="wellcaffeinated"data-safe="true"><code></code><a href="http://codepen.io/wellcaffeinated/pen/7c1f72c5c9c8e2159ee97dc6540e0b72" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://codepen.io']);">Check out this Pen!</a></pre><script async src="http://codepen.io/assets/embed/ei.js"></script>
 
 [1]: http://wellcaffeinated.net/PhysicsJS/
 [2]: https://github.com/wellcaffeinated/PhysicsJS
@@ -902,6 +900,10 @@ RequireJS для определения пути к нашей картинке)
 [18]: https://github.com/wellcaffeinated/PhysicsJS/wiki/Scratchpads
 [19]: http://stackoverflow.com/questions/tagged/physicsjs
 [20]: http://millionthvector.blogspot.ca/p/free-sprites.html
+[21]: http://codepen.io/SilentImp/full/aJAtq
+[22]: http://codepen.io/SilentImp/full/jogle
+[23]: http://codepen.io/SilentImp/full/wHslk
+[24]: http://codepen.io/SilentImp/full/dDryl
 
 
 [Игра, которая у нас получится]: img/PhysicsJS_header_2.jpg "Игра, которая у нас получится"
