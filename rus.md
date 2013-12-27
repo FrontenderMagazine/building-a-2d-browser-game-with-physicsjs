@@ -126,7 +126,9 @@ GitHub][2] (ищите его в examples/spaceship), [конечный резу
 
 Окей, начнём с первой версии `main.js`.
 
-<iframe id="cp_embed_78984a62f88d8a9cb31b6768db6890ac" src="//codepen.io/wellcaffeinated/embed/78984a62f88d8a9cb31b6768db6890ac?safe=true&amp;user=wellcaffeinated&amp;href=78984a62f88d8a9cb31b6768db6890ac&amp;type=js&amp;height=450&amp;slug-hash=78984a62f88d8a9cb31b6768db6890ac&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe>
+<!-- <iframe id="cp_embed_78984a62f88d8a9cb31b6768db6890ac" src="//codepen.io/wellcaffeinated/embed/78984a62f88d8a9cb31b6768db6890ac?safe=true&amp;user=wellcaffeinated&amp;href=78984a62f88d8a9cb31b6768db6890ac&amp;type=js&amp;height=450&amp;slug-hash=78984a62f88d8a9cb31b6768db6890ac&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
+
+<p data-height="450" data-theme-id="0" data-slug-hash="aJAtq" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='http://codepen.io/SilentImp/pen/aJAtq'>Создание двухмерной браузерной игры на основе PhysicsJS (v1)</a></p>
 
 Наискучнейшая игра во всем мире.
 
