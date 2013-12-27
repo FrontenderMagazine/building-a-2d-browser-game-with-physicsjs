@@ -882,7 +882,7 @@ RequireJS для определения пути к нашей картинке)
 
 [1]: http://wellcaffeinated.net/PhysicsJS/
 [2]: https://github.com/wellcaffeinated/PhysicsJS
-[3]: http://codepen.io/wellcaffeinated/full/7c1f72c5c9c8e2159ee97dc6540e0b72
+[3]: http://codepen.io/SilentImp/pen/dDryl
 [4]: https://github.com/wellcaffeinated/PhysicsJS/releases/tag/physicsjs-v0.5.2-alpha
 [5]: https://github.com/wellcaffeinated/PhysicsJS
 [6]: http://stackoverflow.com/questions/tagged/physicsjs
