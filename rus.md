@@ -645,8 +645,6 @@ RequireJS для определения пути к нашей картинке)
 
 Наша вторая итерация проекта теперь уже больше напоминает игру!
 
-<!-- <iframe id="cp_embed_7ef83de07c264d5f140b1c56027a9d29" src="//codepen.io/wellcaffeinated/embed/7ef83de07c264d5f140b1c56027a9d29?safe=true&amp;user=wellcaffeinated&amp;href=7ef83de07c264d5f140b1c56027a9d29&amp;type=js&amp;height=450&amp;slug-hash=7ef83de07c264d5f140b1c56027a9d29&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
-
 <p data-height="450" data-theme-id="0" data-slug-hash="jogle" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/jogle'>Создание двухмерной браузерной игры на основе PhysicsJS (v2)</a></p>
 
 ## Стадия 2: Ищем приключения на свою корму
@@ -807,8 +805,9 @@ RequireJS для определения пути к нашей картинке)
 библиотека PhysicsJS при использовании различных стилей написания кода. Одну и ту же задачу можно реализовать совершенно разными способами.
 
 Давайте взглянем на третью итерацию `main.js`:
-<!-- 
-<iframe id="cp_embed_ef2772ad82abfa8f04a349081afb0f19" src="//codepen.io/wellcaffeinated/embed/ef2772ad82abfa8f04a349081afb0f19?safe=true&amp;user=wellcaffeinated&amp;href=ef2772ad82abfa8f04a349081afb0f19&amp;type=js&amp;height=450&amp;slug-hash=ef2772ad82abfa8f04a349081afb0f19&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
+
+<p data-height="450" data-theme-id="0" data-slug-hash="wHslk" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/wHslk'>Создание двухмерной браузерной игры на основе PhysicsJS (v3)</a></p>
+
 
 Фантастический результат! Мы почти закончили. Осталась лишь финальный штрих, 
 который я хотел бы вам продемонстрировать.
