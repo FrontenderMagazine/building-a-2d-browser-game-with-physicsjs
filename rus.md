@@ -880,6 +880,10 @@ RequireJS для определения пути к нашей картинке)
 
 Спасибо [MillionthVector за спрайты][20].
 
+
+<p data-height="450" data-theme-id="0" data-slug-hash="tFcaz" data-user="SilentImp" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/SilentImp/pen/tFcaz'>PhysicsJS Asteroids Game Tutorial (Full)</a> by SilentImp (<a href='http://codepen.io/SilentImp'>@SilentImp</a>) on <a href='http://codepen.io'>CodePen</a></p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
+
 [1]: http://wellcaffeinated.net/PhysicsJS/
 [2]: https://github.com/wellcaffeinated/PhysicsJS
 [3]: http://codepen.io/SilentImp/pen/dDryl
