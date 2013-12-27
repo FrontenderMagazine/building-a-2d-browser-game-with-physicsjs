@@ -126,7 +126,7 @@ GitHub][2] (ищите его в examples/spaceship), [конечный резу
 
 Окей, [начнём с первой версии][21] `main.js`.
 
-<p data-height="450" data-theme-id="0" data-slug-hash="aJAtq" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/aJAtq'>Создание двухмерной браузерной игры на основе PhysicsJS (v1)</a></p>
+<p data-height="450" data-theme-id="0" data-safe="true" data-type="js" data-slug-hash="aJAtq" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/aJAtq'>Создание двухмерной браузерной игры на основе PhysicsJS (v1)</a></p>
 
 Наискучнейшая игра во всем мире.
 
@@ -645,7 +645,7 @@ RequireJS для определения пути к нашей картинке)
 
 Наша [вторая итерация][22] проекта теперь уже больше напоминает игру!
 
-<p data-height="450" data-theme-id="0" data-slug-hash="jogle" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/jogle'>Создание двухмерной браузерной игры на основе PhysicsJS (v2)</a></p>
+<p data-height="450" data-theme-id="0" data-safe="true" data-type="js" data-slug-hash="jogle" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/jogle'>Создание двухмерной браузерной игры на основе PhysicsJS (v2)</a></p>
 
 ## Стадия 2: Ищем приключения на свою корму
 
@@ -806,7 +806,7 @@ RequireJS для определения пути к нашей картинке)
 
 Давайте [взглянем на третью итерацию][23] `main.js`:
 
-<p data-height="450" data-theme-id="0" data-slug-hash="wHslk" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/wHslk'>Создание двухмерной браузерной игры на основе PhysicsJS (v3)</a></p>
+<p data-height="450" data-theme-id="0" data-safe="true" data-type="js" data-slug-hash="wHslk" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/wHslk'>Создание двухмерной браузерной игры на основе PhysicsJS (v3)</a></p>
 
 
 Фантастический результат! Мы почти закончили. Осталась лишь финальный штрих, 
