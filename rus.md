@@ -647,7 +647,7 @@ RequireJS для определения пути к нашей картинке)
 
 Наша вторая итерация проекта теперь уже больше напоминает игру!
 
-<iframe id="cp_embed_7ef83de07c264d5f140b1c56027a9d29" src="//codepen.io/wellcaffeinated/embed/7ef83de07c264d5f140b1c56027a9d29?safe=true&amp;user=wellcaffeinated&amp;href=7ef83de07c264d5f140b1c56027a9d29&amp;type=js&amp;height=450&amp;slug-hash=7ef83de07c264d5f140b1c56027a9d29&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe>
+<!-- <iframe id="cp_embed_7ef83de07c264d5f140b1c56027a9d29" src="//codepen.io/wellcaffeinated/embed/7ef83de07c264d5f140b1c56027a9d29?safe=true&amp;user=wellcaffeinated&amp;href=7ef83de07c264d5f140b1c56027a9d29&amp;type=js&amp;height=450&amp;slug-hash=7ef83de07c264d5f140b1c56027a9d29&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
 
 ## Стадия 2: Ищем приключения на свою корму
 
@@ -807,8 +807,8 @@ RequireJS для определения пути к нашей картинке)
 библиотека PhysicsJS при использовании различных стилей написания кода. Одну и ту же задачу можно реализовать совершенно разными способами.
 
 Давайте взглянем на третью итерацию `main.js`:
-
-<iframe id="cp_embed_ef2772ad82abfa8f04a349081afb0f19" src="//codepen.io/wellcaffeinated/embed/ef2772ad82abfa8f04a349081afb0f19?safe=true&amp;user=wellcaffeinated&amp;href=ef2772ad82abfa8f04a349081afb0f19&amp;type=js&amp;height=450&amp;slug-hash=ef2772ad82abfa8f04a349081afb0f19&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe>
+<!-- 
+<iframe id="cp_embed_ef2772ad82abfa8f04a349081afb0f19" src="//codepen.io/wellcaffeinated/embed/ef2772ad82abfa8f04a349081afb0f19?safe=true&amp;user=wellcaffeinated&amp;href=ef2772ad82abfa8f04a349081afb0f19&amp;type=js&amp;height=450&amp;slug-hash=ef2772ad82abfa8f04a349081afb0f19&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
 
 Фантастический результат! Мы почти закончили. Осталась лишь финальный штрих, 
 который я хотел бы вам продемонстрировать.
@@ -864,7 +864,7 @@ RequireJS для определения пути к нашей картинке)
 
 Хорошо, добавим этот код в наш `main.js` и взглянем на финальный релиз!
 
-<iframe id="cp_embed_7c1f72c5c9c8e2159ee97dc6540e0b72" src="//codepen.io/wellcaffeinated/embed/7c1f72c5c9c8e2159ee97dc6540e0b72?safe=true&amp;user=wellcaffeinated&amp;href=7c1f72c5c9c8e2159ee97dc6540e0b72&amp;type=js&amp;height=450&amp;slug-hash=7c1f72c5c9c8e2159ee97dc6540e0b72&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe>
+<!-- <iframe id="cp_embed_7c1f72c5c9c8e2159ee97dc6540e0b72" src="//codepen.io/wellcaffeinated/embed/7c1f72c5c9c8e2159ee97dc6540e0b72?safe=true&amp;user=wellcaffeinated&amp;href=7c1f72c5c9c8e2159ee97dc6540e0b72&amp;type=js&amp;height=450&amp;slug-hash=7c1f72c5c9c8e2159ee97dc6540e0b72&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
 
 ## Подводя итог
 
