@@ -863,7 +863,7 @@ RequireJS для определения пути к нашей картинке)
 
 Хорошо, добавим этот код в наш `main.js` и взглянем на финальный релиз!
 
-<!-- <iframe id="cp_embed_7c1f72c5c9c8e2159ee97dc6540e0b72" src="//codepen.io/wellcaffeinated/embed/7c1f72c5c9c8e2159ee97dc6540e0b72?safe=true&amp;user=wellcaffeinated&amp;href=7c1f72c5c9c8e2159ee97dc6540e0b72&amp;type=js&amp;height=450&amp;slug-hash=7c1f72c5c9c8e2159ee97dc6540e0b72&amp;default-tab=js&amp;animations=run" allowtransparency="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" frameborder="0" height="450" scrolling="no"></iframe> -->
+<p data-height="450" data-theme-id="0" data-slug-hash="dDryl" data-user="SilentImp" data-default-tab="result" class='codepen'>Посмотрите на CodePen: <a href='//codepen.io/SilentImp/pen/dDryl'>Создание двухмерной браузерной игры на основе PhysicsJS (Законченный код)</a></p>
 
 ## Подводя итог
 
