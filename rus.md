@@ -1,5 +1,7 @@
 # Создание двухмерной браузерной игры на основе PhysicsJS
 
+[Скриншот][Игра, которая у нас получится]
+
 Я веб-разработчик и фанат физики, и очень давно пытался реализовать симуляцию 
 двухмерной физики на основе JavaScript. Однако, мне постоянно казалось, что 
 чего-то не хватает. Для качественной реализации этой идеи мне был необходим 
@@ -897,3 +899,6 @@ RequireJS для определения пути к нашей картинке)
 [18]: https://github.com/wellcaffeinated/PhysicsJS/wiki/Scratchpads
 [19]: http://stackoverflow.com/questions/tagged/physicsjs
 [20]: http://millionthvector.blogspot.ca/p/free-sprites.html
+
+
+[Игра, которая у нас получится]: img/PhysicsJS_header_2.jpg "Игра, которая у нас получится"
